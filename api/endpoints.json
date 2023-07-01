@@ -1,0 +1,10 @@
+{
+  "BASE_URL": "https://automationexercise.com/api/",
+  "PRODUCTS_LIST": "productsList",
+  "BRANDS": "brandsList",
+  "SEARCH": "searchProduct",
+  "LOGIN": "verifyLogin",
+  "REGISTRATION": "createAccount",
+  "DELETE_ACCOUNT": "deleteAccount",
+  "UPDATE_ACCOUNT": "updateAccount"
+}
